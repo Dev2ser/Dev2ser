@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/9flysx" target="blank"><img src="https://img.shields.io/twitter/follow/9flysx?logo=twitter&style=for-the-badge" alt="9flysx" /></a> </p>
 
-- 🔭 I’m currently working on [Devser](https://github.com/Dev2ser/devser)
+- 🔭 I’m currently working on [devser](https://github.com/Dev2ser/devser)
 
 - 🌱 I’m currently learning **TypeScript, graphql, postgresql**
 
