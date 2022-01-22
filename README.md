@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasser</h1>
 <h3 align="center">A passionate frontend developer from Saudi Arabia,</h3>
+<h4 align="center">Done Surgery, That is why i haven't done any work for the past 8 months.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev2ser&label=Profile%20views&color=4b95c3&style=flat" alt="dev2ser" /> </p>
 
