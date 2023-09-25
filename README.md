@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yasser</h1>
+<h1 align="center">Hi 👋, I'm Yasir</h1>
 <h3 align="center">A passionate frontend developer from Saudi Arabia,</h3>
-<h4 align="center">Done Surgery, That is why i haven't done any work for the past 8 months.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev2ser&label=Profile%20views&color=4b95c3&style=flat" alt="dev2ser" /> </p>
-
-<p align="left"> <a href="https://twitter.com/9flysx" target="blank"><img src="https://img.shields.io/twitter/follow/9flysx?logo=twitter&style=for-the-badge" alt="9flysx" /></a> </p>
 
 - 🔭 I’m currently working on [Devser](https://github.com/Dev2ser/devser)
 
@@ -14,16 +11,14 @@
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me **lemoncooo01@gmail.com, Or the Social Media accounts below.**
+- 📫 How to reach me **yasir0almutairi@gmail.com, Or the Social Media accounts below.**
 
 - ⚡ Fun fact **I can keep coding for more than 8 hours straight. (or technically used to)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/devser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="devser" height="30" width="40" /></a>
-<a href="https://twitter.com/9flysx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="9flysx" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15367538" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15367538" height="30" width="40" /></a>
-<a href="https://instagram.com/dev2ser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dev2ser" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
